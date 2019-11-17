@@ -1,9 +1,9 @@
 Sorting Mat Activity, from CSUnplugged.org
 
-One-Liner Description:
+**One-Liner Description:**
 A Parallel Sorting Activity using a Sorting Network
 
-Extended Description:
+**Extended Description:**
 
 Sorting people, by name, or height, or any other sortable characteristic, using a parallel sorting network.
 It's fun and engaging to get the kids to draw the network on some pavement with chalk, or you can use a sheet if you don't have any handy, safe pavement or concrete.
@@ -22,18 +22,17 @@ https://classic.csunplugged.org/sorting-networks/
 The detailed instructions on running the activity are here: 
 https://classic.csunplugged.org/wp-content/uploads/2014/12/unplugged-08-sorting_networks-2010.pdf
 
-
-Concepts
+**Concepts**
 Sorting, and parallel processing
 
-Complexity
+**Complexity**
 With a sorting mat (I use a sheet with the network drawn on it), it can be done in 20 minutes to half an hour, but can take much longer if you investigate all variations. 
 
-
-Learning Outcomes
+**Learning Outcomes**
 Understand the efficiency gains of parallel processing
 
-Group Size
+**Group Size**
 minimum of 6, up to a whole class
-Contact
+
+**Contact**
 Linda McIver, linda@adsei.org
